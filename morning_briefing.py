@@ -78,7 +78,6 @@ if __name__ == "__main__":
     news_sources_EM = {
         'https://www.em.com.br/politica/': 'Política',
         'https://www.em.com.br/economia/': 'Economia',
-        'https://www.em.com.br/internacional/': 'Internacional',
         'https://www.em.com.br/educacao/': 'Educação',
         # Add more sources as needed
     }
